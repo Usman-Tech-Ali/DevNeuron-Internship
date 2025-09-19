@@ -29,8 +29,9 @@ FGSM perturbs input x in the direction of the gradient sign of the loss w.r.t. x
 
 
 ## Screenshots to Include
-image.png
-image.png
+<img width="1078" height="892" alt="image" src="https://github.com/user-attachments/assets/0337d608-ac1d-4236-8be8-a29b41136d06" />
+<img width="961" height="285" alt="image" src="https://github.com/user-attachments/assets/ef0a0f83-cc5f-417d-9194-44bc3824f007" />
+
 
 ## Attribution
 Provide links to any external references used.
