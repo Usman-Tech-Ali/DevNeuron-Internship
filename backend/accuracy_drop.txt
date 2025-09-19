@@ -1,0 +1,6 @@
+Model: Simple CNN on MNIST
+Samples: 100
+Epsilon: 0.3
+Clean accuracy: 100.00%
+Adversarial accuracy: 2.34%
+Accuracy drop: 97.66%
